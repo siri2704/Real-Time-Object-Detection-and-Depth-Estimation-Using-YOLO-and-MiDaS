@@ -1,7 +1,8 @@
  Real-Time-Object-Detection-and-Depth-Estimation-Using-YOLO-and-MiDaS
+
+
 Description:  This project integrates the YOLOv10 model for real-time object detection and the MiDaS model for depth estimation. Using live video feed, the system detects people and vehicles, calculates their depth, and makes decisions (e.g., “STOP” or “GO”) based on the proximity of detected objects. 
 
- README: Real-Time Object Detection and Depth Estimation using YOLOv10 and MiDaS
 
 Overview
 This project is a real-time object detection and depth estimation system built using the YOLOv10 model for detecting objects and the MiDaS model for estimating depth. The system works on live video feed, detects objects like people and vehicles, calculates their depth, and provides real-time decisions based on object proximity. CUDA is used to accelerate both object detection and depth estimation by utilizing GPU resources.
